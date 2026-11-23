@@ -5,3 +5,10 @@ command:
   - 0.0.0.0
   - --port
   - "8000"
+
+# Décommente et renseigne ces variables pour connecter tes vraies données Databricks :
+# env:
+#   - name: GENIE_SPACE_ID
+#     value: "01ef..."
+#   - name: STOCKS_TABLE_NAME
+#     value: "main.supply_chain.gold_stocks_3d"
