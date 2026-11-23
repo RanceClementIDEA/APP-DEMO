@@ -295,4 +295,4 @@ def index():
     });
   </script>
 </body>
-</html>"""
+</html>
